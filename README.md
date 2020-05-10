@@ -19,10 +19,10 @@ It does not require any installation on your devices because the filtering is ca
 This repository does not contain the KeexyBox source code. To clone the project or contribute, go to **[https://github.com/keexybox/keexyapp](https://github.com/keexybox/keexyapp)**.
 
 ## Getting in touch with KeexyBox's project
-- ([Facebook](https://www.facebook.com/keexybox))
-- ([Twitter](https://twitter.com/keexybox))
-- ([KeexyBox's wiki](https://wiki.keexybox.org))
-- ([KeexyBox's forum](https://forum.keexybox.org))
+- [Facebook](https://www.facebook.com/keexybox)
+- [Twitter](https://twitter.com/keexybox)
+- [KeexyBox's wiki](https://wiki.keexybox.org)
+- [KeexyBox's forum](https://forum.keexybox.org)
 
 ## Donations
 Donations are **greatly appreciated!**
