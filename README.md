@@ -21,6 +21,7 @@ This repository does not contain the KeexyBox source code. To clone the project 
 ## Getting in touch with KeexyBox's project
 - [Facebook](https://www.facebook.com/keexybox)
 - [Twitter](https://twitter.com/keexybox)
+- [Reddit](https://www.reddit.com/r/keexybox/)
 - [KeexyBox's wiki](https://wiki.keexybox.org)
 - [KeexyBox's forum](https://forum.keexybox.org)
 
